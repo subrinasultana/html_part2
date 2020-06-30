@@ -9,4 +9,4 @@ Topics:
 5. code commenting,
 6. introduction to css.
 
-https://subrinasultana.github.io/html_part2/
+https://subrinalisa.github.io/html_part2/
